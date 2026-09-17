@@ -150,7 +150,7 @@ Recommended testing order:
 ## 9. Project Structure
 
 ```text
-assignment-10-car-rental-api/
+JUI_TAWDE/
 ├── config/
 │   └── supabase.js
 ├── controllers/
