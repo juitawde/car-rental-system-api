@@ -174,3 +174,9 @@ assignment-10-car-rental-api/
 ├── server.js
 └── README.md
 ```
+
+## Important
+
+Do **not** put your real Supabase credentials in GitHub. Keep them in `.env`, which is ignored by `.gitignore`.
+
+The assignment's documented requirements are implemented in this starter/submission project, but you still need to run the SQL in your own Supabase project, configure `.env`, and perform the required tests before submitting.
